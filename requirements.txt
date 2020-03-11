@@ -1,0 +1,6 @@
+tensorflow==2.1
+tensorlayer==2.2.1
+numpy
+sklearn
+tqdm
+nltk

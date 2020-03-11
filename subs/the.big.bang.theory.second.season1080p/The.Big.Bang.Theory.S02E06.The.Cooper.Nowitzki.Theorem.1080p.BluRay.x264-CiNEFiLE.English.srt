@@ -1,0 +1,1394 @@
+﻿1
+00:00:02,127 --> 00:00:04,962
+So if you are considering
+going into experimental physics...
+
+2
+00:00:05,130 --> 00:00:06,922
+...my door is always open.
+
+3
+00:00:07,090 --> 00:00:09,925
+Again, I'm sorry that the demonstration
+didn't quite work out.
+
+4
+00:00:10,093 --> 00:00:11,385
+Now we know what happens...
+
+5
+00:00:11,553 --> 00:00:15,889
+...when you accidentally spill peach
+Snapple into a helium-neon laser.
+
+6
+00:00:17,267 --> 00:00:19,768
+The short answer is don't.
+
+7
+00:00:24,149 --> 00:00:26,859
+Now to tell you about
+the Theoretical Physics Department...
+
+8
+00:00:27,027 --> 00:00:28,527
+...is Dr. Sheldon Cooper.
+
+9
+00:00:32,782 --> 00:00:35,284
+- Dr. Cooper?
+<font color="#808080">SHELDON</font>: Forget it.
+
+10
+00:00:37,078 --> 00:00:38,704
+Excuse me.
+
+11
+00:00:39,497 --> 00:00:42,207
+- Sheldon, we both agreed to do this.
+<font color="#808080">SHELDON</font>: It's a waste of time.
+
+12
+00:00:42,375 --> 00:00:45,753
+I might as well explain thermodynamics
+to a bunch of Labradoodles.
+
+13
+00:00:48,048 --> 00:00:52,259
+If you don't do this,
+I won't take you to the comic-book store.
+
+14
+00:00:54,637 --> 00:00:56,221
+Hello.
+
+15
+00:01:00,685 --> 00:01:03,812
+Nice work with the laser, by the way.
+
+16
+00:01:05,815 --> 00:01:08,150
+Looking out at your fresh young faces...
+
+17
+00:01:08,318 --> 00:01:11,612
+...I remember when I too
+was deciding my academic future...
+
+18
+00:01:11,780 --> 00:01:14,573
+...as a lowly graduate student.
+
+19
+00:01:14,741 --> 00:01:17,034
+Of course, I was 14...
+
+20
+00:01:17,494 --> 00:01:19,995
+...and had achieved more
+than you could ever hope to...
+
+21
+00:01:20,163 --> 00:01:22,414
+...despite my 9:00 bedtime.
+
+22
+00:01:23,625 --> 00:01:27,753
+Now, there may be one or two of you
+in this room who has what it takes...
+
+23
+00:01:27,921 --> 00:01:30,047
+...to succeed in theoretical physics.
+
+24
+00:01:30,215 --> 00:01:33,675
+It's more likely that you will spend
+your careers teaching fifth graders...
+
+25
+00:01:33,843 --> 00:01:37,304
+...how to make papier-mâché volcanoes
+with baking-soda lava.
+
+26
+00:01:39,099 --> 00:01:40,349
+Oh, good God.
+
+27
+00:01:40,517 --> 00:01:43,644
+In short, anyone who told you
+that you would someday be able...
+
+28
+00:01:43,812 --> 00:01:47,189
+...to make any significant contribution
+to physics played a trick on you.
+
+29
+00:01:47,357 --> 00:01:49,108
+A cruel trick indeed.
+
+30
+00:01:51,820 --> 00:01:53,028
+Any questions?
+
+31
+00:01:56,157 --> 00:01:58,242
+Of course not.
+
+32
+00:01:59,536 --> 00:02:01,161
+I weep for the future of science.
+
+33
+00:02:01,329 --> 00:02:04,331
+Now, if you'll excuse me,
+the latest issue of Batman is out.
+
+34
+00:02:05,375 --> 00:02:06,875
+Come, Leonard.
+
+35
+00:02:10,213 --> 00:02:13,215
+Laser demonstration's looking
+pretty good now, huh?
+
+36
+00:02:38,867 --> 00:02:40,200
+I love this time of the year.
+
+37
+00:02:40,368 --> 00:02:43,287
+The leaves are turning.
+There's a bracing chill in the air.
+
+38
+00:02:43,454 --> 00:02:46,081
+Plus, there's a whole new crop
+of female grad students...
+
+39
+00:02:46,249 --> 00:02:50,169
+...about to put on just enough winter
+weight to make them needy and vulnerable.
+
+40
+00:02:52,589 --> 00:02:56,133
+That's right, honey, have another calzone.
+Daddy can wait.
+
+41
+00:02:58,595 --> 00:03:01,513
+Isn't there a policy
+against dating graduate students?
+
+42
+00:03:01,681 --> 00:03:04,016
+No. If you can talk to them,
+you can ask them out.
+
+43
+00:03:04,184 --> 00:03:05,684
+Damn. There's always a catch.
+
+44
+00:03:07,103 --> 00:03:08,979
+- Hey, guys.
+- Hey, Leslie.
+
+45
+00:03:09,147 --> 00:03:12,441
+So, dumb-ass, I heard you made
+a grad student throw up last night.
+
+46
+00:03:13,443 --> 00:03:18,113
+The truth can indeed be a finger down
+the throat of those unprepared to hear it.
+
+47
+00:03:18,907 --> 00:03:20,991
+But why should I cater
+to second-rate minds?
+
+48
+00:03:21,367 --> 00:03:24,703
+Because first-rate minds
+call you "dumb-ass."
+
+49
+00:03:26,623 --> 00:03:28,457
+Oh, yeah? Well...
+
+50
+00:03:28,625 --> 00:03:30,542
+You're a mean person.
+
+51
+00:03:31,836 --> 00:03:33,086
+Excuse me, Dr. Cooper?
+
+52
+00:03:33,463 --> 00:03:35,923
+I'm Ramona Nowitzki.
+I was at your talk last night.
+
+53
+00:03:36,341 --> 00:03:40,427
+- I think you're just brilliant.
+- Well, that is the prevailing opinion.
+
+54
+00:03:40,803 --> 00:03:43,180
+God, now I'm gonna throw up.
+
+55
+00:03:43,848 --> 00:03:46,266
+Howard Wolowitz,
+Department of Engineering...
+
+56
+00:03:46,434 --> 00:03:50,979
+...co-designer of the International Space
+Station's liquid-waste-disposal system.
+
+57
+00:03:53,733 --> 00:03:55,067
+Ew.
+
+58
+00:03:58,071 --> 00:04:00,322
+Dr. Cooper, I've read everything
+you've published.
+
+59
+00:04:00,490 --> 00:04:03,909
+I liked your paper on grand unification
+using string-network condensates...
+
+60
+00:04:04,077 --> 00:04:07,162
+...and was wondering how you determined
+that three-dimensional string nets...
+
+61
+00:04:07,330 --> 00:04:09,623
+...provided a unified picture of fermions
+and gauge bosons.
+
+62
+00:04:09,999 --> 00:04:13,710
+Amazing. An intelligent Labradoodle.
+
+63
+00:04:14,671 --> 00:04:16,004
+Woof.
+
+64
+00:04:17,924 --> 00:04:20,175
+The fact is,
+I'm quite close to a breakthrough...
+
+65
+00:04:20,343 --> 00:04:23,303
+...in showing how neutrinos emerge
+from a string-net condensate.
+
+66
+00:04:23,471 --> 00:04:26,932
+Oh, my God. That would change the way
+we view the entire physical universe.
+
+67
+00:04:27,100 --> 00:04:28,976
+It's what I do.
+
+68
+00:04:29,602 --> 00:04:32,729
+You know, the Pishkin-Wolowitz
+liquid-waste-disposal system...
+
+69
+00:04:32,897 --> 00:04:35,524
+...is turning a few heads as well.
+
+70
+00:04:39,112 --> 00:04:41,530
+Again, ew.
+
+71
+00:04:43,366 --> 00:04:46,576
+You know, I'd love to hear more
+about how you intend to add neutrinos.
+
+72
+00:04:46,744 --> 00:04:50,289
+- Could we get a cup of coffee sometime?
+- I don't drink coffee.
+
+73
+00:04:50,456 --> 00:04:52,416
+I do. I love me a cup of Joe.
+
+74
+00:04:53,084 --> 00:04:55,210
+It doesn't have to be coffee.
+How about dinner?
+
+75
+00:04:55,378 --> 00:04:58,463
+- I do eat dinner.
+- Great. I know a terrific little Italian place.
+
+76
+00:04:58,631 --> 00:05:02,718
+I never eat in strange restaurants.
+One runs the risk of non-standard cutlery.
+
+77
+00:05:04,053 --> 00:05:08,765
+- Excuse me?
+- Sheldon lives in fear of the three-tined fork.
+
+78
+00:05:08,933 --> 00:05:12,102
+Three tines is not a fork.
+Three tines is a trident.
+
+79
+00:05:12,270 --> 00:05:16,440
+Forks are for eating,
+tridents are for ruling the seven seas.
+
+80
+00:05:17,734 --> 00:05:21,236
+- What if I brought food to your place?
+- That would be acceptable.
+
+81
+00:05:21,404 --> 00:05:22,863
+On Mondays, I eat Thai food.
+
+82
+00:05:23,031 --> 00:05:26,658
+Mee Krob and chicken satay
+with extra peanut sauce from Siam Palace.
+
+83
+00:05:26,826 --> 00:05:29,828
+You got it. I already have your address.
+
+84
+00:05:33,166 --> 00:05:35,250
+What a nice girl.
+
+85
+00:05:35,877 --> 00:05:38,712
+Sheldon, do you have any idea
+what just happened?
+
+86
+00:05:39,088 --> 00:05:42,257
+Yes. Apparently, I'm getting a free dinner.
+
+87
+00:05:47,096 --> 00:05:50,307
+Oh, yeah, no,
+this thing's majorly out of order.
+
+88
+00:05:50,475 --> 00:05:53,935
+- See? I'm sorry.
+- Okay. Guess I'm taking the stairs.
+
+89
+00:05:54,103 --> 00:05:55,604
+- Where you going?
+- Four-A.
+
+90
+00:05:55,772 --> 00:05:59,107
+- Oh, are you here to see Leonard?
+- No, Dr. Cooper.
+
+91
+00:05:59,275 --> 00:06:01,943
+Dr. Sheldon Cooper?
+
+92
+00:06:02,612 --> 00:06:04,446
+We're having dinner.
+
+93
+00:06:04,614 --> 00:06:07,032
+Sheldon Cooper?
+
+94
+00:06:08,201 --> 00:06:12,788
+Tall, thin, looks a little like
+a giant praying mantis?
+
+95
+00:06:14,624 --> 00:06:16,750
+He is cute, isn't he?
+
+96
+00:06:18,920 --> 00:06:21,463
+<font color="#808080">PENNY</font>:
+Sheldon Cooper?
+
+97
+00:06:24,634 --> 00:06:26,426
+- Hi, Leonard.
+- Hey, Ramona. Come on in.
+
+98
+00:06:26,594 --> 00:06:28,053
+Thanks. Where should I put this?
+
+99
+00:06:28,221 --> 00:06:29,846
+- The kitchen's fine.
+- Okay.
+
+100
+00:06:30,390 --> 00:06:32,265
+- Hey. What are you doing?
+- I need to see this.
+
+101
+00:06:32,433 --> 00:06:33,767
+Uh-huh.
+
+102
+00:06:35,186 --> 00:06:37,562
+The viewing area's right over there.
+
+103
+00:06:40,108 --> 00:06:43,151
+Sheldon, your girl... Date... Person...
+Ramona's here.
+
+104
+00:06:44,195 --> 00:06:46,780
+- Oh, hello.
+- Oh, sorry I'm late.
+
+105
+00:06:46,948 --> 00:06:49,491
+I got caught up reading the draft
+of your latest paper.
+
+106
+00:06:49,659 --> 00:06:53,328
+Did you enjoy the footnote where
+I illustrate mirror symmetry by likening it...
+
+107
+00:06:53,496 --> 00:06:55,831
+- ...to The Flash playing tennis with himself?
+- So funny.
+
+108
+00:06:55,998 --> 00:06:57,332
+<font color="#E86CE4">(LAUGHS)</font>
+
+109
+00:06:57,959 --> 00:07:00,585
+The idea that you might be able
+to incorporate gravity...
+
+110
+00:07:00,753 --> 00:07:04,714
+...I have to tell you,
+I found it physically exhilarating.
+
+111
+00:07:06,300 --> 00:07:08,760
+My hypotheses tend to have that effect.
+
+112
+00:07:10,847 --> 00:07:13,140
+I'm sorry I didn't bring enough
+for your friends.
+
+113
+00:07:13,307 --> 00:07:15,684
+I assumed we were going to be alone.
+
+114
+00:07:18,020 --> 00:07:21,022
+Oh. Yeah. No, we were just going.
+
+115
+00:07:21,190 --> 00:07:22,649
+To watch, right?
+
+116
+00:07:24,444 --> 00:07:28,864
+- No. Come on now. We're going out.
+- Oh, come on. We'll be quiet.
+
+117
+00:07:29,240 --> 00:07:30,407
+Come on, let's go.
+
+118
+00:07:32,034 --> 00:07:33,243
+Okay, you two.
+
+119
+00:07:33,786 --> 00:07:38,248
+You just have a nice whatever this is.
+
+120
+00:07:41,544 --> 00:07:45,964
+Okay, you guys, look, I know this is none
+of my business, but I just... I have to ask.
+
+121
+00:07:46,132 --> 00:07:47,883
+What's Sheldon's deal?
+
+122
+00:07:51,429 --> 00:07:54,556
+- What do you mean, "deal"?
+- You know, like, what's his deal?
+
+123
+00:07:54,724 --> 00:07:57,893
+Is it girls? Guys? Sock puppets?
+
+124
+00:07:58,561 --> 00:08:03,106
+Honestly, we've been operating
+under the assumption that he has no deal.
+
+125
+00:08:03,274 --> 00:08:05,942
+- Oh, come on, everybody has a deal.
+- Not Sheldon.
+
+126
+00:08:06,110 --> 00:08:10,655
+Over the years, we've formulated many
+theories about how he might reproduce.
+
+127
+00:08:11,866 --> 00:08:14,743
+I'm an advocate of mitosis.
+
+128
+00:08:15,703 --> 00:08:17,037
+I'm sorry?
+
+129
+00:08:17,205 --> 00:08:20,457
+I believe, one day, Sheldon will eat
+an enormous amount of Thai food...
+
+130
+00:08:20,625 --> 00:08:23,668
+...and split into two Sheldons.
+
+131
+00:08:25,004 --> 00:08:28,548
+On the other hand, I think Sheldon
+might be the larval form of his species.
+
+132
+00:08:28,716 --> 00:08:30,967
+He'll spin a cocoon
+and emerge two months later...
+
+133
+00:08:31,135 --> 00:08:33,595
+...with moth wings and an exoskeleton.
+
+134
+00:08:34,764 --> 00:08:37,766
+Okay, well, thanks for the nightmares.
+
+135
+00:08:39,018 --> 00:08:43,104
+- Hey, do you wanna hang out with us?
+- Well, what are you guys gonna do?
+
+136
+00:08:44,482 --> 00:08:45,565
+Uh...
+
+137
+00:08:45,733 --> 00:08:48,401
+My mom's making a brisket tonight.
+
+138
+00:08:49,403 --> 00:08:52,322
+- The one with the little onions?
+- Yeah.
+
+139
+00:08:55,243 --> 00:08:59,621
+Yeah, I'm busy. So good night.
+
+140
+00:09:00,790 --> 00:09:03,041
+Her loss. Let's go.
+
+141
+00:09:03,626 --> 00:09:06,795
+Brisket party. B to the R to the I-S-K.
+
+142
+00:09:08,130 --> 00:09:10,215
+To the E to the T to the...
+
+143
+00:09:11,384 --> 00:09:13,677
+- Ooh...
+- Don't.
+
+144
+00:09:18,641 --> 00:09:21,768
+- Hey. Aren't you having breakfast?
+- Yes.
+
+145
+00:09:23,104 --> 00:09:26,398
+Are you experimenting
+with nutritional suppositories again?
+
+146
+00:09:28,109 --> 00:09:29,985
+Not in these pants.
+
+147
+00:09:31,195 --> 00:09:35,323
+- So how'd it go with Ramona last night?
+- Oh, great.
+
+148
+00:09:35,491 --> 00:09:37,492
+She's smart, insightful.
+
+149
+00:09:37,660 --> 00:09:41,663
+She has a very unique way of,
+you know, revering me.
+
+150
+00:09:43,624 --> 00:09:48,420
+- Here's your spinach-mushroom omelet.
+- Thank you.
+
+151
+00:09:49,213 --> 00:09:52,007
+- Did anyone touch it?
+- Gloves were worn by everyone involved.
+
+152
+00:09:52,174 --> 00:09:53,383
+I was vigilant.
+
+153
+00:09:54,343 --> 00:09:57,178
+Ramona pointed out
+that I've been wasting 20 minutes a day...
+
+154
+00:09:57,346 --> 00:09:58,805
+...standing on cafeteria lines.
+
+155
+00:09:58,973 --> 00:10:02,726
+Time which would be better spent tackling
+the great physics problems of our day.
+
+156
+00:10:02,893 --> 00:10:07,397
+You don't tackle the big issues, Ramona.
+You fence with them. En garde. Riposte.
+
+157
+00:10:07,565 --> 00:10:08,857
+<font color="#E86CE4">(LAUGH ING)</font>
+
+158
+00:10:12,278 --> 00:10:13,903
+Touché.
+
+159
+00:10:14,947 --> 00:10:16,698
+- Morning.
+- Oh, hey, Leslie.
+
+160
+00:10:16,866 --> 00:10:18,867
+So I see you're organizing your papers...
+
+161
+00:10:19,035 --> 00:10:22,329
+...for the Smithsonian Museum
+of Dumb-Assery.
+
+162
+00:10:23,372 --> 00:10:27,709
+There won't be any room until they get rid
+of the permanent Leslie Winkle exhibit.
+
+163
+00:10:28,628 --> 00:10:30,754
+Oh, good one.
+
+164
+00:10:31,631 --> 00:10:33,965
+I see you got a grad student
+to fight your battles.
+
+165
+00:10:34,133 --> 00:10:36,843
+I'll let you keep your lunch money today.
+
+166
+00:10:37,428 --> 00:10:39,763
+Okay, Dr. Cooper
+is on the verge of a breakthrough.
+
+167
+00:10:39,930 --> 00:10:43,516
+If you're going to stay,
+you'll have to be respectful and quiet.
+
+168
+00:10:51,734 --> 00:10:53,526
+Wait for me.
+
+169
+00:10:56,989 --> 00:10:58,948
+So have you worked out
+the neutrino issue?
+
+170
+00:10:59,450 --> 00:11:02,911
+Well, to paraphrase Mozart,
+all the subatomic particles are there.
+
+171
+00:11:03,079 --> 00:11:06,122
+- I just have to put them in the right order.
+- You're so witty.
+
+172
+00:11:06,999 --> 00:11:08,041
+Aren't I?
+
+173
+00:11:11,837 --> 00:11:13,088
+<font color="#E86CE4">(KNOCKING ON DOOR)</font>
+
+174
+00:11:13,255 --> 00:11:15,090
+Hey, guys, this package came for...
+
+175
+00:11:19,345 --> 00:11:22,430
+- Dr. Cooper is working.
+- Yes, I'm close to a breakthrough.
+
+176
+00:11:22,598 --> 00:11:24,599
+Oh! Tickles.
+
+177
+00:11:26,310 --> 00:11:28,019
+Sorry.
+
+178
+00:11:32,274 --> 00:11:34,984
+Holy crap on a cracker.
+
+179
+00:11:36,362 --> 00:11:39,447
+- Hey, Penny.
+- Hi. You probably don't wanna go in there.
+
+180
+00:11:39,615 --> 00:11:40,824
+Why? What are they doing?
+
+181
+00:11:42,076 --> 00:11:46,871
+You know, the only way I could explain it
+would be in a therapist's office with dolls.
+
+182
+00:11:55,464 --> 00:11:57,298
+Ooh, boy.
+
+183
+00:11:58,551 --> 00:12:02,470
+- Dr. Cooper's working.
+- Yeah, I can see that.
+
+184
+00:12:02,638 --> 00:12:05,473
+Sheldon, Halo night, Koothrappali's.
+You coming?
+
+185
+00:12:05,641 --> 00:12:09,644
+Oh, yes, it's Halo night.
+Let me just dry my tootsies.
+
+186
+00:12:10,438 --> 00:12:13,690
+- You're not going to Halo night.
+- Yes, I am. It's Wednesday.
+
+187
+00:12:13,858 --> 00:12:16,192
+Wednesday's Halo night.
+
+188
+00:12:16,360 --> 00:12:19,612
+Didn't a great man once say,
+"Science demands nothing less...
+
+189
+00:12:19,780 --> 00:12:23,324
+...than the fervent and unconditional
+dedication of our entire lives"?
+
+190
+00:12:24,160 --> 00:12:26,703
+- He did.
+- And who was that great man?
+
+191
+00:12:27,496 --> 00:12:29,330
+Me.
+
+192
+00:12:30,750 --> 00:12:33,626
+- Sorry, Leonard.
+- Seriously? You're not coming?
+
+193
+00:12:33,794 --> 00:12:36,838
+You heard her. How can I argue with me?
+
+194
+00:12:37,923 --> 00:12:41,801
+Okay. Well, once again,
+you guys have a good...
+
+195
+00:12:41,969 --> 00:12:43,928
+...whatever this is.
+
+196
+00:12:46,348 --> 00:12:49,893
+Dr. Cooper, I have to tell you,
+your friends are holding you back.
+
+197
+00:12:50,060 --> 00:12:53,313
+I prefer to think of it as
+I'm pulling them forward.
+
+198
+00:12:54,607 --> 00:12:55,648
+Halo night?
+
+199
+00:12:55,816 --> 00:12:58,693
+A man with your intellectual gifts
+doesn't waste an evening...
+
+200
+00:12:58,861 --> 00:12:59,986
+...playing video games.
+
+201
+00:13:00,404 --> 00:13:02,489
+He does on Wednesdays.
+
+202
+00:13:02,948 --> 00:13:04,866
+Not if he wants a Nobel Prize.
+
+203
+00:13:05,534 --> 00:13:07,702
+He does want that.
+
+204
+00:13:09,789 --> 00:13:13,416
+Does a man with my intellectual gifts
+play paintball on weekends?
+
+205
+00:13:13,584 --> 00:13:16,503
+- What do you think?
+- Drat.
+
+206
+00:13:18,088 --> 00:13:21,925
+- Now, shall we get back to work?
+- I suppose.
+
+207
+00:13:24,929 --> 00:13:26,805
+Battlestar Galactica comes on tonight.
+
+208
+00:13:28,349 --> 00:13:29,849
+I guess I can wait for the DVD.
+
+209
+00:13:31,727 --> 00:13:34,187
+And then never, ever watch it.
+
+210
+00:14:33,289 --> 00:14:36,416
+Penny. Penny. Penny.
+
+211
+00:14:36,584 --> 00:14:39,043
+Sheldon, honey, I've told you,
+it's a small apartment.
+
+212
+00:14:39,211 --> 00:14:41,880
+- You only have to knock one...
+- I don't have a lot of time.
+
+213
+00:14:42,047 --> 00:14:46,676
+Look, Ramona finally dozed off,
+and I need you to help me get rid of her.
+
+214
+00:14:48,637 --> 00:14:50,763
+Get rid of her how?
+
+215
+00:14:50,931 --> 00:14:54,601
+I don't know, but, apparently,
+I'm in some kind of relationship...
+
+216
+00:14:54,768 --> 00:14:58,021
+...and, well, you seem to be an expert
+at ending them.
+
+217
+00:15:01,984 --> 00:15:03,109
+Excuse me?
+
+218
+00:15:03,277 --> 00:15:06,696
+I see man after man
+leaving this apartment never to return.
+
+219
+00:15:07,781 --> 00:15:10,450
+Okay, first of all, it is not man after man.
+
+220
+00:15:10,618 --> 00:15:12,994
+<font color="#808080">RAMONA</font>: Dr. Cooper?
+- Hide me.
+
+221
+00:15:14,371 --> 00:15:17,123
+- Hide you?
+- I formally request sanctuary.
+
+222
+00:15:18,792 --> 00:15:20,001
+Why aren't you working?
+
+223
+00:15:20,336 --> 00:15:21,669
+Um...
+
+224
+00:15:22,338 --> 00:15:24,505
+She distracted me.
+
+225
+00:15:25,299 --> 00:15:27,508
+I told you,
+I don't have time for your nonsense.
+
+226
+00:15:27,676 --> 00:15:30,345
+I have important things to do.
+
+227
+00:15:32,514 --> 00:15:35,224
+- Oh, man.
+- I know what's going on here.
+
+228
+00:15:35,392 --> 00:15:38,394
+Really?
+Well, then will you explain it to me?
+
+229
+00:15:38,562 --> 00:15:40,647
+You're in love with Dr. Cooper.
+
+230
+00:15:41,732 --> 00:15:44,400
+Uh, yeah, no, that's not it.
+
+231
+00:15:44,902 --> 00:15:46,611
+Don't try to deny it.
+
+232
+00:15:46,779 --> 00:15:50,198
+He's a remarkable man,
+but you have to let him go.
+
+233
+00:15:50,366 --> 00:15:53,326
+Oh, gee. Okay.
+
+234
+00:15:53,827 --> 00:15:58,206
+I know it's hard, but he's a gift
+to the whole world, and we can't be selfish.
+
+235
+00:15:58,374 --> 00:16:00,875
+Yeah, he's a gift, all right.
+
+236
+00:16:02,002 --> 00:16:03,836
+Sisters?
+
+237
+00:16:07,007 --> 00:16:09,217
+Sure, sisters. Heh, heh.
+
+238
+00:16:09,385 --> 00:16:11,552
+Okay.
+
+239
+00:16:14,014 --> 00:16:16,516
+Holy crap on a cracker.
+
+240
+00:16:18,394 --> 00:16:20,395
+<font color="#E86CE4">(TAPPING ON WALL)</font>
+
+241
+00:16:24,858 --> 00:16:25,984
+Sheldon?
+
+242
+00:16:32,074 --> 00:16:36,035
+- What are you doing?
+<font color="#808080">SHELDON</font>: It's Morse code.
+
+243
+00:16:37,246 --> 00:16:41,582
+- Why?
+- So we can communicate through the wall.
+
+244
+00:16:42,167 --> 00:16:45,086
+We are communicating through the wall.
+
+245
+00:16:45,254 --> 00:16:48,589
+Yes, but the communication
+is not encrypted.
+
+246
+00:16:49,091 --> 00:16:52,218
+- I don't know Morse code.
+- Oh, it's very simple. This is A.
+
+247
+00:16:52,386 --> 00:16:53,428
+<font color="#E86CE4">(SHELDON KNOCKING ON WALL)</font>
+
+248
+00:16:53,595 --> 00:16:54,887
+This is B.
+
+249
+00:16:55,055 --> 00:16:57,306
+- This is C.
+- I'm not going to learn Morse code...
+
+250
+00:16:57,474 --> 00:16:58,725
+...at 3:00 in the morning.
+
+251
+00:16:58,892 --> 00:17:00,685
+All right.
+
+252
+00:17:01,603 --> 00:17:04,605
+Don't come in here. Don't come in here.
+Don't come in here. Don't...
+
+253
+00:17:04,773 --> 00:17:07,025
+Oh.
+
+254
+00:17:08,944 --> 00:17:11,863
+- What's going on?
+- Shh. Ramona's sleeping on the couch.
+
+255
+00:17:12,031 --> 00:17:16,826
+- I know. When is she going home?
+- Never. That's the problem.
+
+256
+00:17:16,994 --> 00:17:19,787
+- I need your help.
+- What are you talking about?
+
+257
+00:17:19,955 --> 00:17:23,833
+I'm invoking the Skynet clause
+of our friendship agreement.
+
+258
+00:17:24,001 --> 00:17:26,544
+That only applies
+if you need me to help you destroy...
+
+259
+00:17:26,712 --> 00:17:30,381
+...an artificial intelligence you created
+that's taking over the earth.
+
+260
+00:17:30,549 --> 00:17:32,884
+Come on, don't nitpick.
+
+261
+00:17:33,927 --> 00:17:37,055
+- Good night.
+- All right.
+
+262
+00:17:38,057 --> 00:17:40,850
+I'm invoking our Body Snatchers clause.
+
+263
+00:17:41,018 --> 00:17:44,395
+The Body Snatchers clause requires me
+to help destroy someone we know...
+
+264
+00:17:44,563 --> 00:17:46,481
+...who's been replaced with an alien pod.
+
+265
+00:17:46,648 --> 00:17:49,609
+Yes. She's in the living room.
+Go. I'll wait here.
+
+266
+00:17:50,069 --> 00:17:54,447
+- Sheldon, what are you doing out of bed?
+- Now. Do it.
+
+267
+00:17:56,825 --> 00:18:00,495
+You need your sleep for your cognitive
+processing to perform at optimum levels.
+
+268
+00:18:00,662 --> 00:18:03,748
+- Now, come on.
+- Godzilla clause?
+
+269
+00:18:03,916 --> 00:18:06,793
+<font color="#808080">LEONARD</font>:
+Not unless she destroys Tokyo.
+
+270
+00:18:06,960 --> 00:18:08,711
+<font color="#808080">SHELDON</font>:
+Rats.
+
+271
+00:18:10,214 --> 00:18:11,506
+<font color="#808080">SHELDON</font>:
+I've got it!
+
+272
+00:18:11,673 --> 00:18:14,467
+I finally reconciled
+the black hole information paradox...
+
+273
+00:18:14,635 --> 00:18:17,303
+...with my theory
+of string-network condensates.
+
+274
+00:18:17,471 --> 00:18:22,058
+- It's unbelievable. It's paradigm-altering.
+- And I could not have done it without you.
+
+275
+00:18:22,226 --> 00:18:25,686
+- I just offered a little encouragement.
+- You did a lot more than that.
+
+276
+00:18:25,854 --> 00:18:28,314
+You helped me work out
+the masses of the fermions...
+
+277
+00:18:28,482 --> 00:18:30,066
+...and you pumiced my hammertoe.
+
+278
+00:18:32,027 --> 00:18:33,402
+How can I ever repay you?
+
+279
+00:18:33,570 --> 00:18:36,989
+Well, would you consider naming it
+the Cooper-Nowitzki Theorem?
+
+280
+00:18:37,157 --> 00:18:38,991
+Who's Nowitzki?
+
+281
+00:18:40,452 --> 00:18:43,830
+- I'm Nowitzki.
+- Oh, you want me to share credit?
+
+282
+00:18:43,997 --> 00:18:45,373
+Uh-huh.
+
+283
+00:18:45,666 --> 00:18:47,875
+<font color="#808080">SHELDON</font>: Get out.
+
+284
+00:18:49,211 --> 00:18:52,213
+- Oh, hey. Hi.
+<font color="#808080">RAMONA</font>: Oh, bite me.
+
+285
+00:18:54,258 --> 00:18:56,175
+Sisters?
+
+286
+00:18:59,721 --> 00:19:02,807
+Excuse me, Dr. Cooper.
+I'm Kathy O'Brian.
+
+287
+00:19:02,975 --> 00:19:04,475
+I just finished reading your paper...
+
+288
+00:19:04,643 --> 00:19:06,853
+...reconciling
+the black hole information paradox...
+
+289
+00:19:07,020 --> 00:19:11,023
+...with your theory of string-network
+condensates, and it took my breath away.
+
+290
+00:19:12,568 --> 00:19:15,903
+Maybe when I publish it,
+I'll include an inhaler.
+
+291
+00:19:18,907 --> 00:19:21,826
+Would you possibly have any time
+for me to pick your brain?
+
+292
+00:19:22,619 --> 00:19:23,870
+Let's see. Today's Thursday.
+
+293
+00:19:24,037 --> 00:19:25,955
+Thursday nights
+I eat pizza from Giacomo's.
+
+294
+00:19:26,123 --> 00:19:29,959
+- Sausage, mushrooms, light olives.
+- Great. I'll bring it to your place.
+
+295
+00:19:30,127 --> 00:19:31,419
+I have the address.
+
+296
+00:19:35,090 --> 00:19:36,465
+What a nice girl.
+
+297
+00:19:38,510 --> 00:19:40,803
+Sheldon, do you see
+what just happened here?
+
+298
+00:19:41,221 --> 00:19:44,265
+Yes. I'm getting a free pizza.
+
+299
+00:19:46,476 --> 00:19:48,477
+I'm on a roll.
+
+300
+00:19:53,442 --> 00:19:57,445
+- More pad thai, please.
+- Sheldon, you've already had four servings.
+
+301
+00:19:57,613 --> 00:19:59,989
+You might wanna
+slow down a bit, buddy.
+
+302
+00:20:00,449 --> 00:20:02,992
+Just one more bite.
+
+303
+00:20:09,374 --> 00:20:10,917
+<font color="#808080">LEONARD</font>:
+Sheldon?
+
+304
+00:20:11,668 --> 00:20:16,505
+- Sheldon, are you okay?
+- I'm just so fu... Full.
+
+305
+00:20:24,389 --> 00:20:25,723
+<font color="#E86CE4">(YELPS)</font>
+
+306
+00:20:27,392 --> 00:20:28,768
+That's it. No more Thai food.
+

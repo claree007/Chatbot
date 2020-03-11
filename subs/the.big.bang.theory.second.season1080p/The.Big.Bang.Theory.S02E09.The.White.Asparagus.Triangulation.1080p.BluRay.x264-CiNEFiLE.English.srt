@@ -1,0 +1,1533 @@
+﻿1
+00:00:02,502 --> 00:00:05,504
+- Penny, hello.
+- Hey, Sheldon.
+
+2
+00:00:06,297 --> 00:00:08,298
+What is shaking?
+
+3
+00:00:10,510 --> 00:00:11,552
+I'm sorry?
+
+4
+00:00:11,720 --> 00:00:14,013
+It's colloquial. A conversation opener.
+
+5
+00:00:15,598 --> 00:00:17,975
+So do you find the weather satisfying?
+
+6
+00:00:18,143 --> 00:00:22,021
+Are you currently sharing in the triumph
+of some local sports team?
+
+7
+00:00:22,731 --> 00:00:25,524
+<font color="#808080">PENNY</font>: What's wrong with you?
+You're freaking me out.
+
+8
+00:00:25,692 --> 00:00:28,694
+I'm striking up a casual conversation
+with you.
+
+9
+00:00:28,862 --> 00:00:30,696
+What's up?
+
+10
+00:00:35,285 --> 00:00:37,202
+Please don't do that.
+
+11
+00:00:37,454 --> 00:00:41,206
+But I'm given to understand that when
+you have something awkward to discuss...
+
+12
+00:00:41,374 --> 00:00:44,126
+...it's more palatable
+to preface it with banal chitchat.
+
+13
+00:00:45,879 --> 00:00:48,547
+So this wasn't the awkward part?
+
+14
+00:00:50,508 --> 00:00:52,134
+No.
+
+15
+00:00:53,928 --> 00:00:56,138
+Oh. All right.
+
+16
+00:00:56,306 --> 00:00:58,307
+What's up?
+
+17
+00:00:59,601 --> 00:01:02,061
+<font color="#808080">SHELDON</font>:
+Oh, good, I used that right.
+
+18
+00:01:02,562 --> 00:01:06,648
+Anyway, you're aware that Leonard has
+entered into a new romantic relationship...
+
+19
+00:01:06,816 --> 00:01:09,610
+...which includes a sexual component.
+
+20
+00:01:11,905 --> 00:01:15,240
+- Okay, feeling the awkward now.
+- Wait.
+
+21
+00:01:15,909 --> 00:01:17,493
+Her name is Dr. Stephanie Barnett.
+
+22
+00:01:17,660 --> 00:01:20,996
+And she's a highly distinguished
+surgical resident at Fremont Memorial.
+
+23
+00:01:21,164 --> 00:01:22,331
+- Yeah, Leonard told me.
+- Good.
+
+24
+00:01:22,499 --> 00:01:27,336
+What he may have left out
+is how important this relationship is to me.
+
+25
+00:01:28,880 --> 00:01:29,922
+- To you?
+- Yes.
+
+26
+00:01:30,090 --> 00:01:33,008
+See, of the handful of women
+Leonard's been involved with...
+
+27
+00:01:33,176 --> 00:01:36,178
+...she's the only one
+I have ever found tolerable.
+
+28
+00:01:40,850 --> 00:01:42,518
+Well, what about me?
+
+29
+00:01:43,311 --> 00:01:45,562
+The statement stands for itself.
+
+30
+00:01:47,816 --> 00:01:49,149
+Well, aren't you sweet?
+
+31
+00:01:49,317 --> 00:01:51,652
+Anyway, should you have
+any interaction with her...
+
+32
+00:01:51,820 --> 00:01:56,198
+...it would be most helpful
+that she not see you as a sexual rival.
+
+33
+00:01:57,534 --> 00:01:59,785
+<font color="#808080">PENNY</font>:
+Yeah, I think she's pretty safe.
+
+34
+00:01:59,953 --> 00:02:02,913
+You say that now,
+but consider the following scenario.
+
+35
+00:02:03,081 --> 00:02:06,041
+You're sitting in your apartment.
+It's late. You're alone.
+
+36
+00:02:06,209 --> 00:02:09,753
+Your hypothalamus is swimming in
+a soup of estrogen and progesterone...
+
+37
+00:02:09,921 --> 00:02:15,217
+...and, suddenly, even Leonard
+seems like a viable sexual candidate.
+
+38
+00:02:17,053 --> 00:02:21,390
+Or a hookup,
+as it's referred to by today's urban youth.
+
+39
+00:02:21,558 --> 00:02:22,850
+- Really?
+- Yes.
+
+40
+00:02:23,017 --> 00:02:27,855
+Now, should that happen, I would ask you
+to find some way to suppress your libido.
+
+41
+00:02:30,733 --> 00:02:33,443
+I could think about you.
+
+42
+00:02:35,697 --> 00:02:37,823
+Fine. Whatever works.
+
+43
+00:02:39,367 --> 00:02:41,743
+Always nice talking to you, Sheldon.
+
+44
+00:02:41,911 --> 00:02:43,662
+Peace out.
+
+45
+00:03:10,857 --> 00:03:12,107
+<font color="#808080">SHELDON</font>:
+Mm.
+
+46
+00:03:18,281 --> 00:03:20,866
+Well, this is very pleasant.
+
+47
+00:03:21,743 --> 00:03:23,702
+I'm glad you're enjoying yourself.
+
+48
+00:03:23,870 --> 00:03:27,706
+And you said there would never
+be enough pasta for the three of us.
+
+49
+00:03:27,874 --> 00:03:29,541
+I stand corrected.
+
+50
+00:03:29,709 --> 00:03:32,336
+You know,
+Italian housewives have a rule of thumb:
+
+51
+00:03:32,503 --> 00:03:35,088
+A handful of dry pasta
+about an inch in diameter...
+
+52
+00:03:35,256 --> 00:03:39,968
+...is sufficient for each person,
+as it doubles in volume when cooked.
+
+53
+00:03:40,511 --> 00:03:41,637
+That's very interesting.
+
+54
+00:03:41,804 --> 00:03:45,307
+- Thank you.
+- She doesn't mean it. She's just being nice.
+
+55
+00:03:47,310 --> 00:03:50,938
+Well, Stephanie, since Leonard seems
+to be dropping the conversational ball...
+
+56
+00:03:51,105 --> 00:03:53,565
+...I guess I'll just have to pick it up.
+Ahem.
+
+57
+00:04:00,949 --> 00:04:03,659
+Have you ever witnessed a violent crime?
+
+58
+00:04:06,204 --> 00:04:07,829
+- No.
+- Good.
+
+59
+00:04:07,997 --> 00:04:10,499
+- What's your favorite fruit?
+- It, uh...
+
+60
+00:04:11,167 --> 00:04:12,209
+Strawberries.
+
+61
+00:04:12,377 --> 00:04:14,461
+Mm, technically not a fruit, but all right.
+
+62
+00:04:16,589 --> 00:04:18,674
+Where did you do
+your medical internship?
+
+63
+00:04:18,841 --> 00:04:21,009
+Uh, Lawrence Memorial
+in Galveston, Texas.
+
+64
+00:04:21,177 --> 00:04:23,178
+Really? That's where I was born.
+
+65
+00:04:25,848 --> 00:04:27,182
+- You're kidding.
+<font color="#808080">SHELDON</font>: No.
+
+66
+00:04:27,350 --> 00:04:30,143
+I spent so much of my childhood
+at that hospital. It...
+
+67
+00:04:30,311 --> 00:04:33,355
+When I was 12,
+I got to ride there in a helicopter.
+
+68
+00:04:34,023 --> 00:04:37,234
+- What? What happened?
+- Radiation burns.
+
+69
+00:04:37,402 --> 00:04:40,362
+A little mishap
+while I was building my own CAT scanner.
+
+70
+00:04:41,030 --> 00:04:43,782
+I'm sorry, you tried to build
+your own CAT scanner?
+
+71
+00:04:43,950 --> 00:04:45,909
+No, I didn't try, I succeeded.
+
+72
+00:04:46,077 --> 00:04:49,705
+I was briefly able to see the inside
+of my sister's guinea pig, Snowball...
+
+73
+00:04:49,872 --> 00:04:51,873
+...before he caught fire.
+
+74
+00:04:52,583 --> 00:04:54,876
+It led to an interesting expression
+in our house:
+
+75
+00:04:55,044 --> 00:04:57,796
+Not a Snowball's chance
+in a CAT scanner.
+
+76
+00:04:59,382 --> 00:05:01,633
+Uh, Sheldon.
+
+77
+00:05:02,302 --> 00:05:03,385
+Excuse me.
+
+78
+00:05:04,304 --> 00:05:07,723
+When I come back, just for fun,
+the subject will be alternative history.
+
+79
+00:05:07,890 --> 00:05:10,600
+Specifically, how would the Civil War
+have gone differently...
+
+80
+00:05:10,768 --> 00:05:13,353
+...if Lincoln had been
+a robot sent from the future?
+
+81
+00:05:18,526 --> 00:05:21,737
+Look at that, there's even pasta left over.
+
+82
+00:05:22,196 --> 00:05:24,823
+Do you understand
+that this was supposed to be a date?
+
+83
+00:05:24,991 --> 00:05:26,533
+I do. Do you?
+
+84
+00:05:26,701 --> 00:05:29,828
+Because, frankly, you've been
+in a foul mood since I sat down.
+
+85
+00:05:33,249 --> 00:05:35,250
+Okay, here's my question:
+
+86
+00:05:35,418 --> 00:05:37,586
+Why did you sit down?
+
+87
+00:05:38,254 --> 00:05:41,423
+To help.
+Look, if you fail at this relationship...
+
+88
+00:05:41,591 --> 00:05:43,383
+...and history suggests you will...
+
+89
+00:05:44,927 --> 00:05:49,514
+...then we risk losing the medical officer
+that our landing party has always needed.
+
+90
+00:05:52,185 --> 00:05:54,686
+What landing party?
+
+91
+00:05:55,271 --> 00:05:57,731
+You're Kirk. I'm Spock.
+Wolowitz is Scotty.
+
+92
+00:05:57,899 --> 00:06:00,817
+Koothrappali is the guy
+who always gets killed.
+
+93
+00:06:02,737 --> 00:06:05,447
+And now we've got McCoy.
+
+94
+00:06:12,789 --> 00:06:16,083
+So we're all standing around
+looking at the post-op X-ray...
+
+95
+00:06:16,250 --> 00:06:19,461
+...and there it is, clear as day,
+right in the guy's chest cavity:
+
+96
+00:06:19,629 --> 00:06:21,797
+One of my earrings.
+
+97
+00:06:22,715 --> 00:06:25,342
+Oh, my God, what did you do?
+
+98
+00:06:25,510 --> 00:06:26,802
+Ha, ha. What do you think I did?
+
+99
+00:06:26,969 --> 00:06:28,845
+I discreetly slipped off the other earring...
+
+100
+00:06:29,013 --> 00:06:31,264
+...put it in my pocket,
+and then got the hell out of there.
+
+101
+00:06:31,432 --> 00:06:32,891
+<font color="#E86CE4">(LAUGHS)</font>
+
+102
+00:06:33,059 --> 00:06:35,894
+- I have a bone to pick with you, sir.
+- Oh!
+
+103
+00:06:37,313 --> 00:06:38,980
+- Hi, Sheldon.
+- Hi, Stephanie.
+
+104
+00:06:39,148 --> 00:06:43,777
+I'm sorry I'm late, but your companion
+left the most indecipherable invitation.
+
+105
+00:06:43,945 --> 00:06:45,904
+What invitation?
+
+106
+00:06:47,115 --> 00:06:48,990
+"We're going to the movies."
+
+107
+00:06:49,158 --> 00:06:51,827
+What movie? What theater? What time?
+
+108
+00:06:53,579 --> 00:06:57,582
+If you were trying to make it impossible to
+locate you, you couldn't have done better.
+
+109
+00:06:57,750 --> 00:07:00,502
+Oh, clearly, I could have.
+
+110
+00:07:01,129 --> 00:07:02,754
+It took 20 minutes to go through...
+
+111
+00:07:02,922 --> 00:07:06,675
+...the browser history on your computer
+to see what movie times you looked up.
+
+112
+00:07:07,677 --> 00:07:09,261
+Wait here, I'll find us seats.
+
+113
+00:07:09,429 --> 00:07:12,889
+- Oh, no. We have seats.
+- Not the right seats.
+
+114
+00:07:13,057 --> 00:07:14,558
+Ha!
+
+115
+00:07:17,520 --> 00:07:18,979
+Ha!
+
+116
+00:07:19,689 --> 00:07:21,189
+Ha!
+
+117
+00:07:23,192 --> 00:07:24,276
+What is he doing?
+
+118
+00:07:24,444 --> 00:07:27,696
+He's finding the acoustic sweet spot.
+
+119
+00:07:27,864 --> 00:07:29,573
+Ha!
+
+120
+00:07:31,284 --> 00:07:35,871
+- Uh, does he always do this?
+- Sometimes he brings a toy xylophone.
+
+121
+00:07:37,415 --> 00:07:38,540
+<font color="#808080">SHELDON</font>:
+Ho!
+
+122
+00:07:40,001 --> 00:07:41,418
+Ho!
+
+123
+00:07:42,837 --> 00:07:45,213
+- I am really sorry about this.
+- No...
+
+124
+00:07:45,381 --> 00:07:47,382
+...it's fine, you know. He's sweet.
+
+125
+00:07:47,550 --> 00:07:49,593
+<font color="#E86CE4">(SHELDON HUMS TONE)</font>
+
+126
+00:07:52,221 --> 00:07:54,097
+<font color="#E86CE4">(HUMS TONE)</font>
+
+127
+00:07:55,349 --> 00:07:58,477
+My apologies.
+You've been sitting in it all along.
+
+128
+00:07:58,644 --> 00:08:03,064
+- Leonard, you wanna slide over one?
+- No. Just sit here.
+
+129
+00:08:05,610 --> 00:08:09,154
+<font color="#E86CE4">(THX'S "DEEP NOTE"
+PLAYING ON SCREEN)</font>
+
+130
+00:08:17,788 --> 00:08:20,207
+Oh, yeah. This is it.
+
+131
+00:08:22,585 --> 00:08:25,629
+Leonard. Leonard. Leonard.
+
+132
+00:08:26,506 --> 00:08:30,008
+What, Sheldon? What, Sheldon?
+What, Sheldon?
+
+133
+00:08:30,801 --> 00:08:32,093
+Tell me what you see here.
+
+134
+00:08:32,261 --> 00:08:36,056
+The blunt instrument
+that will be the focus of my murder trial?
+
+135
+00:08:36,516 --> 00:08:38,350
+This is Stephanie's Facebook page.
+
+136
+00:08:38,518 --> 00:08:41,728
+Now, where it should say
+"in a relationship," what does it say?
+
+137
+00:08:41,896 --> 00:08:44,397
+- "Stephanie Barnett is single."
+- Yeah, furthermore...
+
+138
+00:08:44,565 --> 00:08:48,485
+...earlier this evening, she threw
+a digital sheep at some guy named Mike.
+
+139
+00:08:51,030 --> 00:08:54,741
+Who's Mike? Why does he
+get a digital sheep and not you?
+
+140
+00:08:54,909 --> 00:08:58,954
+It's just her Facebook page, and we've
+only been going out a couple of weeks.
+
+141
+00:08:59,121 --> 00:09:02,457
+You don't see it, do you?
+We're losing her.
+
+142
+00:09:04,710 --> 00:09:07,379
+Okay, I'm gonna make this very simple
+for you.
+
+143
+00:09:07,547 --> 00:09:10,632
+You are not in this relationship.
+
+144
+00:09:12,051 --> 00:09:13,718
+I am.
+
+145
+00:09:13,886 --> 00:09:17,222
+Ergo, you have no say...
+
+146
+00:09:17,390 --> 00:09:21,184
+...in anything that happens
+between me and Stephanie.
+
+147
+00:09:22,645 --> 00:09:24,062
+I'm afraid I can't allow that.
+
+148
+00:09:25,606 --> 00:09:28,024
+Pursuant to Starfleet General Order 104,
+Section A...
+
+149
+00:09:28,192 --> 00:09:31,861
+...you are deemed unfit,
+and I hereby relieve you of your command.
+
+150
+00:09:34,740 --> 00:09:37,784
+General Order 104, Section A
+does not apply in this situation.
+
+151
+00:09:37,952 --> 00:09:42,080
+- Give me one good reason why not.
+- Because this is not Star Trek.
+
+152
+00:09:47,712 --> 00:09:48,837
+Penny.
+
+153
+00:09:49,005 --> 00:09:50,213
+Penny.
+
+154
+00:09:50,381 --> 00:09:51,965
+Penny.
+
+155
+00:09:52,341 --> 00:09:53,550
+What?
+
+156
+00:09:53,718 --> 00:09:56,011
+This is banana bread.
+
+157
+00:09:57,722 --> 00:09:59,931
+This is a door knob.
+
+158
+00:10:01,642 --> 00:10:04,394
+It's my understanding
+that an unsolicited gift of food...
+
+159
+00:10:04,562 --> 00:10:09,399
+...can be a precursor to an impromptu
+invitation to come in and chat.
+
+160
+00:10:11,485 --> 00:10:13,278
+Sheldon, would you like to come in?
+
+161
+00:10:13,446 --> 00:10:15,947
+I suppose I could spare a few minutes.
+
+162
+00:10:18,743 --> 00:10:19,784
+<font color="#E86CE4">(SHELDON GASPS)</font>
+
+163
+00:10:19,952 --> 00:10:22,037
+Were you robbed?
+
+164
+00:10:23,748 --> 00:10:25,373
+No.
+
+165
+00:10:25,541 --> 00:10:27,876
+How can you be sure?
+
+166
+00:10:28,044 --> 00:10:29,419
+Sheldon, what do you want?
+
+167
+00:10:29,587 --> 00:10:32,047
+I'm certain this will come
+as no surprise to you.
+
+168
+00:10:32,214 --> 00:10:36,760
+- Leonard is failing in another relationship.
+- He's having problems with Stephanie?
+
+169
+00:10:36,927 --> 00:10:40,263
+She's sending virtual livestock
+to random men on the Internet.
+
+170
+00:10:40,973 --> 00:10:43,683
+If I have any hope
+of keeping them together, I need data.
+
+171
+00:10:43,851 --> 00:10:47,228
+Specifically, I need to know exactly
+what Leonard did that caused you...
+
+172
+00:10:47,396 --> 00:10:50,440
+...to pop an emotional cap
+in his buttocks.
+
+173
+00:10:52,652 --> 00:10:54,736
+- What?
+- Again, urban slang.
+
+174
+00:10:54,904 --> 00:10:58,114
+In which I believe
+I'm gaining remarkable fluency.
+
+175
+00:10:59,200 --> 00:11:01,326
+So, what is the down and the low?
+
+176
+00:11:01,494 --> 00:11:03,745
+And don't worry,
+this is all entirely confidential...
+
+177
+00:11:03,913 --> 00:11:07,290
+...so you feel free to include any
+and all shortcomings in the bedroom.
+
+178
+00:11:07,875 --> 00:11:09,751
+Heh. We never got to the bedroom.
+
+179
+00:11:10,920 --> 00:11:12,962
+Because?
+
+180
+00:11:14,215 --> 00:11:15,256
+<font color="#E86CE4">(SCOFFS)</font>
+
+181
+00:11:15,424 --> 00:11:18,468
+Okay. All right. You know what?
+I'll tell you what happened.
+
+182
+00:11:19,637 --> 00:11:21,680
+Ah. We were young.
+
+183
+00:11:21,847 --> 00:11:25,058
+We were very much in love,
+but we could only communicate...
+
+184
+00:11:25,226 --> 00:11:28,812
+...through a time-traveling mailbox
+at my lake house.
+
+185
+00:11:32,942 --> 00:11:36,861
+It's not enough that you made me watch
+that movie, but now you mock me with it?
+
+186
+00:11:40,199 --> 00:11:44,869
+Gentlemen, I have a question
+about dating and relationships.
+
+187
+00:11:50,501 --> 00:11:53,044
+You told me
+you were gonna have the talk with him.
+
+188
+00:11:54,088 --> 00:11:57,298
+I've been waiting for someone
+to have the talk with me.
+
+189
+00:11:57,925 --> 00:12:01,553
+More to the point, it's about finding a way
+to keep Leonard and Stephanie together.
+
+190
+00:12:01,721 --> 00:12:04,180
+- Oh, I don't think you can.
+- Why not?
+
+191
+00:12:04,348 --> 00:12:07,517
+Look at Leonard's record.
+Twenty-seven days with Joyce Kim.
+
+192
+00:12:07,685 --> 00:12:10,228
+During which she defected
+to North Korea.
+
+193
+00:12:10,980 --> 00:12:13,106
+Two booty calls with Leslie Winkle.
+
+194
+00:12:13,274 --> 00:12:16,151
+For which she awarded him the nickname
+Speed-of-Light Leonard.
+
+195
+00:12:17,695 --> 00:12:19,612
+And a three-hour dinner with Penny.
+
+196
+00:12:19,780 --> 00:12:23,575
+Which would've been two and a half if they
+ordered the soufflé when they sat down.
+
+197
+00:12:23,826 --> 00:12:25,577
+Based on the geometric progression...
+
+198
+00:12:25,745 --> 00:12:29,205
+...his relationship with Stephanie
+should have ended after 20 minutes.
+
+199
+00:12:29,373 --> 00:12:30,665
+Yes, I'm aware of the math.
+
+200
+00:12:30,833 --> 00:12:33,042
+Y equals 27 days over 12 to the nth.
+
+201
+00:12:33,210 --> 00:12:34,794
+The issue remains.
+
+202
+00:12:35,796 --> 00:12:38,381
+How do we circumvent
+his inevitable rejection?
+
+203
+00:12:38,549 --> 00:12:40,884
+Well, if you want to guarantee his appeal
+to Stephanie...
+
+204
+00:12:41,051 --> 00:12:44,471
+...your best bet would be
+to kill all the other men on the planet.
+
+205
+00:12:46,390 --> 00:12:49,017
+I'll tell you what you shouldn't do.
+That body spray...
+
+206
+00:12:49,185 --> 00:12:51,269
+...where the women undress
+when they smell it?
+
+207
+00:12:51,437 --> 00:12:53,563
+That doesn't work at all.
+
+208
+00:12:56,400 --> 00:12:59,194
+No matter how much you put on.
+
+209
+00:13:00,237 --> 00:13:04,491
+So that's all you've got? Apocalyptic
+genocide and "Go easy on the cologne"?
+
+210
+00:13:06,243 --> 00:13:07,494
+- Yes.
+- Yeah.
+
+211
+00:13:10,581 --> 00:13:11,831
+Penny.
+
+212
+00:13:11,999 --> 00:13:13,041
+Penny.
+
+213
+00:13:13,501 --> 00:13:14,918
+What?
+
+214
+00:13:19,799 --> 00:13:21,341
+Penny.
+
+215
+00:13:26,388 --> 00:13:28,306
+Zucchini bread.
+
+216
+00:13:28,724 --> 00:13:30,183
+Oh, thank you.
+
+217
+00:13:30,351 --> 00:13:32,560
+- May I come in?
+- No.
+
+218
+00:13:33,270 --> 00:13:35,563
+I see. Apparently, my earlier inquiry...
+
+219
+00:13:35,731 --> 00:13:38,942
+...regarding you and Leonard
+crossed some sort of line.
+
+220
+00:13:39,109 --> 00:13:40,235
+I apologize.
+
+221
+00:13:40,903 --> 00:13:42,362
+Oh, thank you.
+
+222
+00:13:42,530 --> 00:13:44,781
+So have you and I returned
+to a social equilibrium?
+
+223
+00:13:44,949 --> 00:13:46,282
+- Yes.
+- Great.
+
+224
+00:13:46,450 --> 00:13:47,909
+- New topic.
+- Mm.
+
+225
+00:13:48,077 --> 00:13:50,870
+Where are you in your menstrual cycle?
+
+226
+00:13:53,874 --> 00:13:56,501
+- What?
+- I've been doing some research online...
+
+227
+00:13:56,669 --> 00:14:01,965
+...and, apparently, female primates...
+You know, uh, apes, chimpanzees, you.
+
+228
+00:14:02,466 --> 00:14:05,802
+...they find their mate more desirable
+when he's courted by another female.
+
+229
+00:14:05,970 --> 00:14:08,721
+Now, this effect is intensified
+when the rival female...
+
+230
+00:14:08,889 --> 00:14:11,516
+...is secreting the pheromones
+associated with ovulation.
+
+231
+00:14:11,684 --> 00:14:14,727
+Which brings me back to my question.
+Where are you in...?
+
+232
+00:14:17,481 --> 00:14:20,525
+Clearly, I'm 14 days too early.
+
+233
+00:14:22,486 --> 00:14:26,030
+All I'm saying is,
+if they can cure yellow fever and malaria...
+
+234
+00:14:26,198 --> 00:14:29,742
+...why can't they do something
+about lactose intolerance?
+
+235
+00:14:31,120 --> 00:14:33,121
+Leonard, you're gonna have to let this go.
+
+236
+00:14:33,289 --> 00:14:37,125
+You had a little cheese dip, you farted.
+I thought it was cute.
+
+237
+00:14:39,044 --> 00:14:40,295
+Oh, hi, Stephanie.
+
+238
+00:14:40,462 --> 00:14:41,546
+Hi.
+
+239
+00:14:42,423 --> 00:14:43,798
+- Want some more wine?
+- Yeah.
+
+240
+00:14:43,966 --> 00:14:46,885
+I mean,
+I assume I'm not driving anywhere tonight.
+
+241
+00:14:47,052 --> 00:14:48,428
+<font color="#E86CE4">(BOTH CHUCKLE)</font>
+
+242
+00:14:48,596 --> 00:14:50,680
+<font color="#E86CE4">(SHELDON GROANS)</font>
+
+243
+00:14:51,974 --> 00:14:53,641
+<font color="#E86CE4">(GRUNTS)</font>
+
+244
+00:14:56,312 --> 00:14:57,687
+<font color="#E86CE4">(GRUNTS)</font>
+
+245
+00:14:59,356 --> 00:15:00,607
+What are you doing?
+
+246
+00:15:00,774 --> 00:15:05,361
+I have a craving for white asparagus that,
+apparently, is destined to go unsatisfied.
+
+247
+00:15:05,529 --> 00:15:07,530
+<font color="#E86CE4">(GRUNTS)</font>
+
+248
+00:15:08,866 --> 00:15:10,241
+<font color="#E86CE4">(GRUNTS)</font>
+
+249
+00:15:11,327 --> 00:15:12,994
+- Excuse me.
+- Mm-hm.
+
+250
+00:15:13,412 --> 00:15:15,121
+<font color="#E86CE4">(GRUNTS)</font>
+
+251
+00:15:15,289 --> 00:15:17,749
+- What is wrong with you?
+- I'm helping you with Stephanie.
+
+252
+00:15:17,917 --> 00:15:20,627
+By making constipated moose sounds?
+
+253
+00:15:21,629 --> 00:15:25,757
+When I fail to open this and you succeed,
+it will establish you as the alpha male.
+
+254
+00:15:25,925 --> 00:15:29,761
+You see, when a female witnesses
+an exhibition of physical domination...
+
+255
+00:15:29,929 --> 00:15:31,846
+...she produces the hormone oxytocin.
+
+256
+00:15:32,014 --> 00:15:35,975
+If the two of you engage in intercourse,
+this will create the biochemical reaction...
+
+257
+00:15:36,143 --> 00:15:39,729
+...which laypeople naively interpret
+as falling in love.
+
+258
+00:15:41,899 --> 00:15:43,232
+Huh.
+
+259
+00:15:44,276 --> 00:15:47,403
+Would it work
+if I just punched you in the face?
+
+260
+00:15:48,364 --> 00:15:50,990
+Yes, actually, it would,
+but let's see how the lid goes.
+
+261
+00:15:52,076 --> 00:15:54,827
+I'm not strong enough, Leonard.
+You'll have to do it.
+
+262
+00:15:56,413 --> 00:15:59,082
+- God's sakes.
+- Go ahead, it's pre-loosened.
+
+263
+00:16:10,636 --> 00:16:12,762
+<font color="#E86CE4">(GRUNTING)</font>
+
+264
+00:16:13,764 --> 00:16:17,684
+- Do you want some help with that?
+- No, no, no.
+
+265
+00:16:18,227 --> 00:16:19,477
+- I got it.
+- Oh, yeah, yeah.
+
+266
+00:16:19,645 --> 00:16:21,479
+He's got it, and that's not surprising.
+
+267
+00:16:21,647 --> 00:16:26,234
+This is something I long ago came
+to peace with in my role as the beta male.
+
+268
+00:16:28,237 --> 00:16:29,612
+Open it.
+
+269
+00:16:34,535 --> 00:16:36,077
+Ow!
+
+270
+00:16:36,245 --> 00:16:38,204
+- Ow, ow!
+- Oh, my God, are you okay?
+
+271
+00:16:38,372 --> 00:16:40,081
+Uh, no, I'm not... I'm bleeding.
+
+272
+00:16:40,249 --> 00:16:41,624
+Like a gladiator.
+
+273
+00:16:42,459 --> 00:16:44,752
+- Oh, honey, you're gonna need stitches.
+- Stitches?
+
+274
+00:16:44,920 --> 00:16:46,337
+- Mm-hm.
+- With a needle?
+
+275
+00:16:46,839 --> 00:16:48,631
+Well, yeah. I mean, just a few.
+
+276
+00:16:48,799 --> 00:16:50,758
+Oh, okay.
+
+277
+00:16:50,926 --> 00:16:52,135
+Yeah, hang on a sec.
+
+278
+00:16:55,556 --> 00:16:57,557
+<font color="#E86CE4">(VOMITING)</font>
+
+279
+00:17:02,730 --> 00:17:05,481
+FYI, I was defrosting a steak in there.
+
+280
+00:17:09,611 --> 00:17:12,655
+What a beautiful job Stephanie did.
+
+281
+00:17:12,823 --> 00:17:15,158
+I might have gone
+with a mattress suture instead...
+
+282
+00:17:15,325 --> 00:17:17,618
+...but you can't argue with her results.
+
+283
+00:17:17,786 --> 00:17:19,370
+It's a shame it won't scar.
+
+284
+00:17:19,538 --> 00:17:24,083
+The war wound
+is a time-honored badge of masculinity.
+
+285
+00:17:25,085 --> 00:17:28,504
+I can't remember a time
+when you weren't talking.
+
+286
+00:17:29,465 --> 00:17:33,301
+Just for the record, my efforts to establish
+you as the alpha male were not aided...
+
+287
+00:17:33,469 --> 00:17:36,429
+- ...by you bursting into tears.
+- I did not burst into tears.
+
+288
+00:17:36,597 --> 00:17:39,432
+- My eyes just got a little watery.
+- Watery?
+
+289
+00:17:39,975 --> 00:17:43,102
+She stuck a needle into my hand.
+
+290
+00:17:43,729 --> 00:17:46,606
+Hey, how's my big crybaby?
+
+291
+00:17:47,524 --> 00:17:48,733
+I didn't cry.
+
+292
+00:17:49,234 --> 00:17:51,569
+Okay, I'm just teasing you.
+
+293
+00:17:51,737 --> 00:17:52,987
+But, yeah, you did.
+
+294
+00:17:54,156 --> 00:17:57,200
+It's all good. What do you say
+we get you home, put you to bed?
+
+295
+00:17:57,367 --> 00:17:59,118
+Oh. Are you still gonna spend the night?
+
+296
+00:17:59,286 --> 00:18:01,996
+Uh, no. I think that you
+probably need to rest.
+
+297
+00:18:02,164 --> 00:18:06,459
+She's right. As long as you're vomiting,
+coitus is contraindicated.
+
+298
+00:18:07,127 --> 00:18:09,087
+Thank you, Dr. Cooper.
+
+299
+00:18:09,254 --> 00:18:12,131
+You're welcome, Dr. Hofstadter.
+
+300
+00:18:15,052 --> 00:18:18,137
+Okay, I'm gonna go
+get your discharge papers.
+
+301
+00:18:18,305 --> 00:18:20,181
+<font color="#E86CE4">(SHELDON CLICKS TONGUE)</font>
+
+302
+00:18:20,682 --> 00:18:22,266
+What?
+
+303
+00:18:22,434 --> 00:18:24,393
+You seem like
+a perfectly pleasant person.
+
+304
+00:18:24,561 --> 00:18:28,356
+I can't understand why women
+have such a hard time loving you.
+
+305
+00:18:34,863 --> 00:18:36,823
+Can you open this for me?
+
+306
+00:18:36,990 --> 00:18:39,617
+- Can I see your stitches?
+- Sure.
+
+307
+00:18:40,327 --> 00:18:41,869
+<font color="#E86CE4">(RETCHING)</font>
+
+308
+00:18:45,040 --> 00:18:49,502
+Answering the question once and for all
+why Wolowitz bailed out of medical school.
+
+309
+00:18:50,337 --> 00:18:51,754
+Leonard, congratulations.
+
+310
+00:18:51,922 --> 00:18:54,549
+- What for?
+- Your Facebook status update.
+
+311
+00:18:54,716 --> 00:18:57,718
+"Leonard Hofstadter is in a relationship."
+
+312
+00:18:57,886 --> 00:19:00,221
+What? No. No, that's not right.
+
+313
+00:19:00,681 --> 00:19:04,600
+Oh, man, did you switch your status
+before she did?
+
+314
+00:19:05,435 --> 00:19:09,230
+Speaking as an expert,
+way to look needy.
+
+315
+00:19:09,690 --> 00:19:12,483
+Seriously?
+You went first after only two weeks?
+
+316
+00:19:12,651 --> 00:19:14,402
+That's bold.
+
+317
+00:19:14,570 --> 00:19:16,445
+It's not bold, it's a mistake.
+
+318
+00:19:16,613 --> 00:19:18,406
+I didn't change my status.
+
+319
+00:19:18,574 --> 00:19:20,575
+Well, then who did?
+
+320
+00:19:24,913 --> 00:19:28,374
+I had no choice. He cried in front of her.
+
+321
+00:19:29,293 --> 00:19:31,586
+You hacked my Facebook account?
+
+322
+00:19:31,753 --> 00:19:37,008
+Oh, it's hardly hacking when you use
+the same password for everything, Kal-El.
+
+323
+00:19:37,676 --> 00:19:41,012
+Are you insane?
+Now she's gonna think I'm desperate.
+
+324
+00:19:41,180 --> 00:19:43,264
+You've destroyed this relationship.
+
+325
+00:19:43,432 --> 00:19:45,141
+And you wanna know
+the worst part?
+
+326
+00:19:45,309 --> 00:19:47,560
+You don't understand
+what you did wrong...
+
+327
+00:19:47,728 --> 00:19:52,023
+...because you can't conceive of something
+that you are not an expert in.
+
+328
+00:19:52,191 --> 00:19:54,942
+- In which I am not an expert.
+- Don't even...
+
+329
+00:19:57,905 --> 00:19:59,822
+Don't wanna hear another word
+out of you.
+
+330
+00:19:59,990 --> 00:20:01,532
+Ooh.
+
+331
+00:20:03,535 --> 00:20:06,537
+What's wrong, Lassie?
+Timmy fall down the well?
+
+332
+00:20:09,666 --> 00:20:11,083
+Oh, wow.
+
+333
+00:20:11,251 --> 00:20:13,419
+She just updated her Facebook status.
+
+334
+00:20:13,837 --> 00:20:17,924
+"Stephanie Barnett is in a relationship
+with Leonard Hofstadter."
+
+335
+00:20:19,259 --> 00:20:20,301
+Really?
+
+336
+00:20:22,804 --> 00:20:24,305
+Oh, look at that.
+
+337
+00:20:24,473 --> 00:20:26,515
+I have a girlfriend. Ha, ha.
+
+338
+00:20:27,267 --> 00:20:28,935
+If I am permitted to speak again...
+
+339
+00:20:29,102 --> 00:20:32,647
+...Dr. Sheldon Cooper for the win.
+
