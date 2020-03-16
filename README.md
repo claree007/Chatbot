@@ -1,5 +1,5 @@
 # Chatbot
-A simple chatbot in python using sequence to sequence model
+A simple chatbot in python using sequence to sequence model. Currently in development. Will make a Ipython notebook version as well.
 
 1. <p><b>Run the requirements.txt for 64-bit python installation.</b> <br/> <code>py -m pip install -r requirements.txt</code><br/><br/></p>
 
